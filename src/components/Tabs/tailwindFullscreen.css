@@ -1,0 +1,5 @@
+/* tailwindFullscreen.css */
+.fullscreen {
+    @apply fixed inset-0 z-50 p-4 bg-white overflow-auto;
+  }
+  
